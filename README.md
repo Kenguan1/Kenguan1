@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 
 - 🔭 Interested in becoming a fullstak dev, I've used Javascript, Python, React, Django, MySQL, HTML & CSS
 - 🌱 I’m focused on learning React
-- 💬 Ask me about CSS
 - 📫 How to reach me: camilo.kenguan@utp.edu.co
-- ⚡ Fun fact: being a nerd I'm good at playing soccer
+- ⚡ Fun fact: being a nerd I'm good at playing football
 -->
