@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Camilo Kenguan
-- 🔭 Interested in becoming a Full Stack Dev, I've used Javascript, Python, React, Django, MySQL, HTML & CSS
+- 🔭 Interested in becoming a Full Stack Dev, I've used Power Platform Javascript, Python, React, Django, MySQL, HTML & CSS
 - 🌱 I’m focused on learning React
 - 💬 Ask me about CSS
 - 📫 How to reach me: camilo.kenguan@utp.edu.co
